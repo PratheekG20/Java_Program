@@ -1,0 +1,13 @@
+package com.collections;
+
+import java.util.List;
+
+public class Collection1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		List<String> fruit=new List() {
+		}<"apple","mango">;
+	}
+
+}

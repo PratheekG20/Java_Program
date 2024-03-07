@@ -1,0 +1,8 @@
+package com.collections;
+
+public class Collection_02 {
+	class Person {
+	    String name;
+	    Integer age;
+	}
+}
